@@ -4,18 +4,25 @@ TO DO:
 Develop a simple Flask web application that allows users to input their username and password, and stores these credentials in a database.
 
 Deliverables:
+
 A working Flask application that accepts username and password input.
 
 This is a simple Flask web application that allows users to input their username and password and stores these credentials securely in a database. 
+
 The project is designed as a beginner-friendly introduction to Flask and web application development.
 
 Features:
+
 User registration form with username and password input.
+
 Stores user credentials in an SQLite database.
+
 Simple, responsive HTML template for the UI.
+
 Modular and clean Flask application structure.
 
 Technologies Used:
+
 Python ,Flask, Sqlite,HTML
 
  ![image](https://github.com/user-attachments/assets/4125523a-cd9b-4ee9-9c6b-3c058af8f2b4)
