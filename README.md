@@ -8,7 +8,6 @@ Deliverables:
 A working Flask application that accepts username and password input.
 
 This is a simple Flask web application that allows users to input their username and password and stores these credentials securely in a database. 
-
 The project is designed as a beginner-friendly introduction to Flask and web application development.
 
 Features:
